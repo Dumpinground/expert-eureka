@@ -1,11 +1,11 @@
 {
-    "version": "v1.28.25",
+    "version": "1.28.27",
     "description": "A browser extension for automating your browser by connecting blocks",
     "homepage": "https://github.com/automaapp/automa",
     "license": "AGPL",
     "notes": "You need enable develop mode to add this",
-    "url": "https://github.com/AutomaApp/automa/releases/download/v1.28.25/automa-chrome-v1.28.25.zip",
-    "hash": "E5AB1A587578A32F7A8416102DE8FA5FAEC92CC17E9D46DDBB5820DE6F51E9F7",
+    "url": "https://github.com/AutomaApp/automa/releases/download/v1.28.27/automa-chrome-v1.28.27.zip",
+    "hash": "eab3fb0e5ab987ba697d25eb39287dca140c7a6b732eca2fd4d926a4d73ea4fc",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/AutomaApp/automa/releases/download/v$version/automa-chrome-v$version.zip"
