@@ -8,6 +8,6 @@
     "hash": "E5AB1A587578A32F7A8416102DE8FA5FAEC92CC17E9D46DDBB5820DE6F51E9F7",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/AutomaApp/automa/releases/download/$version/automa-chrome-$version.zip"
+        "url": "https://github.com/AutomaApp/automa/releases/download/v$version/automa-chrome-v$version.zip"
     }
 }
