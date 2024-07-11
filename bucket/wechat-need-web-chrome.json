@@ -1,0 +1,14 @@
+{
+    "version": "1.28.27",
+    "description": "让微信网页版可用 / Allow the use of WeChat via webpage access",
+    "homepage": "https://github.com/automaapp/automa",
+    "license": "GPL-3.0",
+    "notes": "You need enable develop mode in chrome to add this",
+    "url": "https://github.com/lqzhgood/wechat-need-web/releases/download/1.1.0/chrome.zip",
+    "hash": "8a3b3e4ced88885041c6d3d58716cbb6066f01b9d707570037b801ca1497eb9e",
+    "extract_to": "wechat-need-web",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/lqzhgood/wechat-need-web/releases/download/$version/chrome.zip"
+    }
+}
