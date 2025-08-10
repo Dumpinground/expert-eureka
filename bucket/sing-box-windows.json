@@ -9,5 +9,9 @@
             "url": "https://github.com/xinggaoya/sing-box-windows/releases/download/v1.8.2/sing-box-windows_1.8.2_x64_en-US.msi",
             "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         }
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/xinggaoya/sing-box-windows/releases/download/v$version/sing-box-windows_$version_x64_en-US.msi",
     }
 }
